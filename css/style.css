@@ -2042,7 +2042,7 @@ text-decoration: none;
 }
 
 .work-item-container.service-item-container:hover {
-    width: 462px;
+    /* width: 462px; */
 }
 
 .how-we-item{
